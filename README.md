@@ -1,14 +1,12 @@
 ![perl](phlpm_logo.png)
 
-this is the phl.pm site
-
-http://phlpm.github.io/phlpm
-
 # Meetup page
+[Our meetup page](https://www.meetup.com/Philadelphia-Perl-Mongers/)
 
 # Links to talks
 
-# Link to mailing list
+# Mailing list
+We have a rather low-volume [mailing list](http://mail.pm.org/mailman/listinfo/philadelphia-pm), used mostly for negotiation of meeting locations and occasional technical chatter.
 
 # Calendar
 
