@@ -9,7 +9,15 @@ our speakers come from within phl.pm, but from time to time we bring in
 a guru from elsewhere in the Perl community.
 
 ## Meetup page
-[Our meetup page](https://www.meetup.com/Philadelphia-Perl-Mongers/)
+All of our meetings are listed on [our meetup page](https://www.meetup.com/Philadelphia-Perl-Mongers/).
+
+## Next meeting
+
+<ul id='next_event'></ul>
+
+## Future events
+
+<ul id='future_events'></ul>
 
 ## Links to talks
 
@@ -19,7 +27,4 @@ We have a rather low-volume
 used mostly for negotiation of meeting locations and occasional
 technical chatter.
 
-## Calendar
-
-Can we even do this?
 
