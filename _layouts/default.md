@@ -36,7 +36,8 @@ var url = 'https://api.meetup.com/2/events?offset=0&format=json&limited_events=F
             $('ul#next_event').append('<li>'
                 + when.format('MMMM Do, h:mm a')
                 + ' at ' + next_event.venue.name
-                + '<br>(' + when.fromNow() + ')'
+                + ' (' + when.fromNow() + ')'
+                + '<br>' + next_event.name
             );
             $(events.slice(0,3)).each(function(i,e) {
                 d = moment(e.time);
