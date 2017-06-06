@@ -25,7 +25,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 * 2016-11-14: Mark Dominus: Red flags
 * 2016-10-10: Columbus Day
 * 2016-09-12: Brian Duggan: [Informal DSLs with Perl 6](https://fosdem.org/2017/schedule/event/informal_dsl/)
-* 2016-08-09: Walt Mankowski: [Learning from Cobol](http://www.yapcna.org/yn2016/talk/6610)
+* 2016-08-09: Walt Mankowski: [Learning from COBOL](http://www.yapcna.org/yn2016/talk/6610)
 
 ## Mailing list
 We have a rather low-volume
