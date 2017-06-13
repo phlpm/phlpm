@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2017-06-12: Curt Tilmes: [LibCurl](http://modules.perl6.org/dist/LibCurl)
 * 2017-05-08: Mark Dominus: [the best anagrams](http://blog.plover.com/lang/anagrams-misc.html)
 * 2017-04-10: [Website](http://phl.pm.org) hackathon
 * 2017-03-13: Brian Duggan: Perl 6 CLI and metaprogramming
