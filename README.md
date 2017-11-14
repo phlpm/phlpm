@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2017-11-13: Walt Mankowski: A Punchcard Ate My Program!
 * 2017-10-09: Brian Duggan: Jupyter Notebooks and Perl 6
 * 2017-09-11: Jim Keenan: Security Implications of "Time of Check to Time of Use" for Widely Used Perl Code
 * 2017-06-12: Curt Tilmes: [LibCurl](http://modules.perl6.org/dist/LibCurl)
