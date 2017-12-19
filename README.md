@@ -2,11 +2,11 @@
 
 # Philadelphia Perl Mongers
 
-Once a month, we meet and someone gives a presentation about technical
-issues about Perl, or the world surrounding Perl. Past talks include JSON,
-Perl 6, Perl in the real world, Regular Expressions, and more. Generally
-our speakers come from within phl.pm, but from time to time we bring in
-a guru from elsewhere in the Perl community.
+On the second Monday of every month, we meet and someone gives a
+presentation about technical issues about Perl, or the world surrounding
+Perl. Past talks include JSON, Perl 6, Perl in the real world, Regular
+Expressions, and more. Generally our speakers come from within phl.pm, but
+from time to time we bring in a guru from elsewhere in the Perl community.
 
 ## Meetup page
 All of our meetings are listed on [our meetup page](https://www.meetup.com/Philadelphia-Perl-Mongers/).
@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2017-12-11: Brian Duggan: Intro to Perl 6 Grammars
 * 2017-11-13: Walt Mankowski: A Punchcard Ate My Program!
 * 2017-10-09: Brian Duggan: Jupyter Notebooks and Perl 6
 * 2017-09-11: Jim Keenan: Security Implications of "Time of Check to Time of Use" for Widely Used Perl Code
