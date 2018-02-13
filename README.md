@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2018-02-12: Walt Mankowski: Advent of Code: Perl 5, Python 2, Python 3, C++
 * 2017-12-11: Brian Duggan: Intro to Perl 6 Grammars
 * 2017-11-13: Walt Mankowski: A Punchcard Ate My Program!
 * 2017-10-09: Brian Duggan: Jupyter Notebooks and Perl 6
