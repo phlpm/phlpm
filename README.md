@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2018-04-09: Ryan and Brian: React and [Cro](http://mi.cro.services)
 * 2018-03-12: Jim Keenan: Testing the CPAN river against the Perl 5 Core
 * 2018-02-12: Walt Mankowski: Advent of Code: Perl 5, Python 2, Python 3, C++
 * 2017-12-11: Brian Duggan: Intro to Perl 6 Grammars
