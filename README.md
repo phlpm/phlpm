@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2018-06-11: Curt and Brian: Linked Data, Identifiers and the [Global Change Information System](https://data.globalchange.gov)
 * 2018-05-14: Walt: Bangbang Con 2018
 * 2018-04-09: Ryan and Brian: React and [Cro](http://mi.cro.services)
 * 2018-03-12: Jim Keenan: Testing the CPAN river against the Perl 5 Core
