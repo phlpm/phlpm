@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2019-01-14: Curt: SQL Database Access with Perl 6
 * 2018-12-10: Andrew Mitchell: Regular Expressions: War Stories
 * 2018-10-08: Brian: Building a Better Markdown
 * 2018-09-10: Walt: The Python Data Model
