@@ -2,7 +2,7 @@
 
 # Philadelphia Perl Mongers
 
-On the second Monday of every month, we meet and someone gives a
+Once a month, we meet and someone gives a
 presentation about technical issues about Perl, or the world surrounding
 Perl. Past talks include JSON, Perl 6, Perl in the real world, Regular
 Expressions, and more. Generally our speakers come from within phl.pm, but
