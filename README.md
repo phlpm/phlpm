@@ -16,6 +16,7 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2019-05-15: Quick talks by Curt, Walt, Brian: Libarchive, pack and unpack, Carton and Mojolicious
 * 2019-04-10: Perl 6 Clinic: Grammar Hacking and ZMachine
 * 2019-03-20: Brian: Parsing Google Protocol Buffers (and Perl 6 regexes)
 * 2019-02-13: Jim: Multiple Bisection Part II
