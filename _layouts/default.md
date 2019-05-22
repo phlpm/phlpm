@@ -26,7 +26,7 @@
 
   $(document).ready( function() {
     $.ajax({
-        dataType:'jsonp',
+        dataType:'json',
         method:'get',
         url:url,
         success:function(r) {
