@@ -2,14 +2,15 @@
 
 # Philadelphia Perl Mongers
 
-Once a month, we meet and someone gives a
-presentation about technical issues about Perl, or the world surrounding
-Perl. Past talks include JSON, Perl 6, Perl in the real world, Regular
-Expressions, and more. Generally our speakers come from within phl.pm, but
-from time to time we bring in a guru from elsewhere in the Perl community.
+Once a month, we meet and someone gives a presentation about technical
+issues about Perl, or the world surrounding Perl. Past topics include
+programming best practices, grammars, graphQL, reactive programming, anagrams,
+Perl 5 core maintenance, and more. Generally our speakers come from within
+phl.pm, but from time to time we bring in a guru from elsewhere in
+the Perl community.
 
-## Meetup page
-All of our meetings are listed on [our meetup page](https://www.meetup.com/Philadelphia-Perl-Mongers/).
+## Upcoming events 
+Our upcoming meetings are listed on [our events page](https://phl.matatu.org).
 
 ## Next meeting
 
@@ -46,13 +47,6 @@ All of our meetings are listed on [our meetup page](https://www.meetup.com/Phila
 * 2016-08-09: Walt Mankowski: [Learning from COBOL](http://www.yapcna.org/yn2016/talk/6610)
 
 ## Mailing list
-We have a rather low-volume
-[mailing list](http://mail.pm.org/mailman/listinfo/philadelphia-pm),
-used mostly for negotiation of meeting locations and occasional
+We have a [mailing list](http://mail.pm.org/mailman/listinfo/philadelphia-pm),
+used for negotiation of meeting topics and locations and occasional
 technical chatter.
-
-## Future dates
-
-<ul id='future_events'></ul>
-
-

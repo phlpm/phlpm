@@ -22,7 +22,7 @@
 
   </body>
   <script>
-var url = 'https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=Philadelphia-Perl-Mongers&page=200&fields=&order=time&desc=false&status=upcoming&sig_id=210249827&sig=b11fa1d7abc99aa8409df30aa980cd804e3d12d9'
+  var url = 'https://phl.matatu.org/events/next.json';
 
   $(document).ready( function() {
     $.ajax({
@@ -45,7 +45,7 @@ var url = 'https://api.meetup.com/2/events?offset=0&format=json&limited_events=F
             })
         },
         error:function(jx,status,error) {
-            console.log('error connecting to meetup',error)
+            console.log('error connecting to events api',error)
         }
         })
     })
