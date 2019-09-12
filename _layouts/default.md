@@ -37,7 +37,10 @@
                 + when.format('MMMM Do, h:mm a')
                 + ' at ' + next_event.venue.name
                 + ' (' + when.fromNow() + ')'
-                + '<br>' + next_event.name
+                + '<br>'
+                + '<a target="_blank" href="https://phl.matatu.org/event/' + next_event.id  + '">'
+                + next_event.name
+                + '</a>'
             );
             $(events.slice(0,3)).each(function(i,e) {
                 d = moment(e.time);
