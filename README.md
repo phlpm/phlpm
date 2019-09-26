@@ -17,6 +17,7 @@ Our upcoming meetings are listed on [our events page](https://phl.matatu.org).
 <ul id='next_event'></ul>
 
 ## Past meetings
+* 2019-09-25: John Karr: [Vote::Count](https://metacpan.org/release/Vote-Count)
 * 2019-05-15: Quick talks by Curt, Walt, Brian: Libarchive, pack and unpack, Carton and Mojolicious
 * 2019-04-10: Perl 6 Clinic: Grammar Hacking and ZMachine
 * 2019-03-20: Brian: Parsing Google Protocol Buffers (and Perl 6 regexes)
