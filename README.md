@@ -1,6 +1,6 @@
 ![perl](phlpm_logo.svg){:class="logo"}
 
-# Philadelphia Perl Mongers
+# Philadelphia Perl and Raku Mongers
 
 Once a month, we meet and someone gives a presentation about technical
 issues about Perl, or the world surrounding Perl. Past topics include
