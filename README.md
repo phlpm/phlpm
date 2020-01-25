@@ -3,11 +3,12 @@
 # Philadelphia Perl and Raku Mongers
 
 Once a month, we meet and someone gives a presentation about technical
-issues about Perl, or the world surrounding Perl. Past topics include
-programming best practices, grammars, graphQL, reactive programming, anagrams,
-Perl 5 core maintenance, and more. Generally our speakers come from within
-phl.pm, but from time to time we bring in a guru from elsewhere in
-the Perl community.
+issues about the Perl programming language, the Raku programming
+language or the world surrounding them.  Past topics include
+programming best practices, grammars, graphQL, reactive programming,
+anagrams, Perl 5 core maintenance, and more. Generally our speakers
+come from within phl.pm, but from time to time we bring in a guru
+from elsewhere in the community.
 
 ## Upcoming events 
 Our upcoming meetings are listed on [our events page](https://phl.matatu.org).
